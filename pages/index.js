@@ -82,7 +82,7 @@ const Home = () => {
         passion for building digital services/stuff he wants. 
         He is interested in all things launching products, 
         from planning and design to solving real problems 
-        with code. If you too are trying to build something great, something that matters, let's get in contact via e.g.{' '}
+        with code. If you too are trying to build something great, something that matters, let&apos;s get in contact via e.g.{' '}
           
             <Link href="https://www.linkedin.com/in/andrey-nagumanov/" target="_blank">LinkedIn</Link>
           
