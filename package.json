@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "Andrey Nagumanov<vonamugan@gmail.com",
+  "author": "Andrey Nagumanov<vonamugan@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.7",
